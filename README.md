@@ -1,2 +1,1 @@
-# CryptographyTabletopExercises
-Cryptography Tabletop Exercise
+# Cryptography Tabletop Exercise
